@@ -44,7 +44,7 @@ const Hero = () => {
           transition={{ duration: 0.6, delay: 0.1 }}
         >
           I'm{" "}
-          <span className="text-gradient">Arin Saynere</span>
+          <span className="text-gradient">Arin Sayanere</span>
         </motion.h1>
 
         <motion.p

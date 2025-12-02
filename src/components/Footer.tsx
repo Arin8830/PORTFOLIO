@@ -18,7 +18,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               className="text-primary hover:underline"
             >
-              Arin Saynere
+              Arin Sayanere
             </a>
           </p>
           <p className="font-mono text-xs text-muted-foreground/60">
